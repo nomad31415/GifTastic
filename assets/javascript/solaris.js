@@ -5,7 +5,7 @@
 var characters = [
   "Solaris",
   "Stalker",
-  "Momento",
+  "Memento",
   "Riddick",
   "Pi(1998)"
 ];
